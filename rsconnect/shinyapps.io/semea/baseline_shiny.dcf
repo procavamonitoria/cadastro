@@ -1,0 +1,12 @@
+name: baseline_shiny
+title: CADASTRO
+username: semea
+account: semea
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12720658
+bundleId: 9306726
+url: https://semea.shinyapps.io/baseline_shiny/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

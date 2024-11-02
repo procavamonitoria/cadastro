@@ -1,0 +1,12 @@
+polished::deploy_app("semea",
+                     app_dir = ".", 
+                     api_key = "KZuBAAOR4N120VI916MGkeALMNr8bBuIKC", 
+                     launch_browser = TRUE, 
+                     region = "us-east1", 
+                     ram_gb = 4, 
+                     r_ver = NULL,
+                     tlmgr = character(0), 
+                     golem_package_name = NULL,
+                     cache = TRUE, 
+                     gh_pat = NULL,
+                     max_sessions = Inf)

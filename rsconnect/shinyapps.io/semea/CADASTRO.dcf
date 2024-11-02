@@ -1,0 +1,12 @@
+name: CADASTRO
+title: CADASTRO
+username: semea
+account: semea
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13125453
+bundleId:
+url: https://semea.shinyapps.io/CADASTRO/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
